@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ggEnrique
 - 👀 I’m interested in web development, linguistics, and chess!
 - 🌱 I’m currently learning Python, Javascript, CSS, and HTML!
-- 💞️ I’m looking to collaborate on OpenSource Projects!
 - 📫 How to reach me (https://www.linkedin.com/in/enrique-g-a209b3238/)
 
 <!---
