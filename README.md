@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, Javascript, CSS, and HTML!
 - 📫 How to reach me (https://www.linkedin.com/in/enrique-g-a209b3238/)
 - Check this website out! (https://codepen.io/ggEnrique/full/jOveaYw)
+- Or this website! (https://ggenrique.github.io/)
 
 <!---
 ggEnrique/ggEnrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
