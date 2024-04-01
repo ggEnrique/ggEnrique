@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ggEnrique
 - 👀 I’m interested in web development, linguistics, and chess!
-- 🌱 I’m currently learning Python, Javascript, CSS, and HTML!
+- 🌱 I’m currently learning Python, Javascript, and Java!
 - 📫 How to reach me (https://www.linkedin.com/in/enrique-g-a209b3238/)
 - Check this website out! (https://codepen.io/ggEnrique/full/jOveaYw)
 - Or this website! (https://ggenrique.github.io/)
